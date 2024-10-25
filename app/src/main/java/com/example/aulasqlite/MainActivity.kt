@@ -11,7 +11,6 @@ import androidx.core.view.WindowInsetsCompat
 import com.example.aulasqlite.bancodedados.DatabaseHelper
 import com.example.aulasqlite.bancodedados.ProdutoDAO
 import com.example.aulasqlite.model.Produto
-import java.lang.Exception
 
 class MainActivity : AppCompatActivity() {
 
